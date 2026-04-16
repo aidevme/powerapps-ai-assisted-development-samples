@@ -83,13 +83,7 @@ Each sample in this repository demonstrates a specific use case or pattern:
 
 ## Contributing
 
-Contributions are welcome! If you have examples of AI-assisted Power Apps development:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-sample`)
-3. Commit your changes (`git commit -m 'Add new sample'`)
-4. Push to the branch (`git push origin feature/new-sample`)
-5. Open a Pull Request
+This project is not currently accepting contributions. If you are interested in contributing, please contact the maintainers of this project for more information.
 
 ## Best Practices
 
