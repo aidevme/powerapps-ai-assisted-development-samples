@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Power Apps Community
+    url: https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1
+    about: Ask questions and connect with other Power Apps developers
+  - name: GitHub Copilot Documentation
+    url: https://docs.github.com/copilot
+    about: Learn more about using GitHub Copilot
+  - name: Anthropic Claude Documentation
+    url: https://docs.anthropic.com/
+    about: Learn more about using Claude for development
